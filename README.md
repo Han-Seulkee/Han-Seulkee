@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Han-Seulgi
+- 👋 Hi, I’m @Han-Seulkee
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Spring Framework
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me trsg_h@naver.com
+- 🌱 I’m currently learning Python
+- 📫 How to reach me 👉trsg_h@naver.com
 
 <!---
 Han-Seulgi/Han-Seulgi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
