@@ -3,7 +3,7 @@
 - Web Development
   - Frontend: HTML, CSS, JavaScript
   - Backend: Java (Spring)
-  - Frameworks: Spring, MyBatis
+  - Frameworks: [Spring](https://spring.io/why-spring/), [MyBatis](https://mybatis.org/mybatis-3/ko/index.html)
 
 - Mobile App Development
   - Android: Java
