@@ -11,8 +11,8 @@
   <!--- - Cross-platform: React Native, Flutter --->
  
 Check out some of my projects:
-- [Project 1](https://github.com/Han-Seulkee/agi-log)
-- [Project 2](https://github.com/Han-Seulkee/jachwi-in-talk)
+- [agi-log](https://github.com/Han-Seulkee/agi-log)
+- [jachwi-in-talk](https://github.com/Han-Seulkee/jachwi-in-talk)
 
 #### 🌱 I’m currently learning Python, React
 #### 📫 How to reach me 👉trsg_h@naver.com
